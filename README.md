@@ -176,6 +176,4 @@ A hosted demo is coming soon — this repo contains everything needed to run loc
 
 ---
 
-If you want, I can also add a small `screenshots/` folder with placeholder images and wire README badges (build, docker) — tell me which you'd like next.
-
 Enjoy — open `http://localhost:3000` and try pasting an email into the app.
