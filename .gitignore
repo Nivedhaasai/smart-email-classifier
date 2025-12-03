@@ -1,0 +1,55 @@
+# Root .gitignore — ignores common Python & Node artifacts
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.egg-info/
+.eggs/
+.env
+.env.*
+venv/
+.venv/
+VENV/
+venv.bak/
+.Python
+
+# Model artifacts
+model.pkl
+vectorizer.pkl
+
+# Node / frontend
+node_modules/
+build/
+/dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Logs
+*.log
+
+# Docker
+docker-compose.override.yml
+
+# Secrets
+*.pem
+*.key
+
+# Misc
+coverage/
+htmlcov/
+
+# Ensure large files are not committed
+*.zip
+*.tar.gz
+
+# End of root .gitignore

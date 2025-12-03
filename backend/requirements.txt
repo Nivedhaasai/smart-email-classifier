@@ -1,0 +1,5 @@
+fastapi==0.123.5
+uvicorn==0.38.0
+pydantic==2.7.1
+python-multipart==0.0.6
+scikit-learn==1.7.2

@@ -1,0 +1,37 @@
+# Backend .gitignore - Python specific
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Model artifacts (do not commit)
+model.pkl
+vectorizer.pkl
+
+# Local env files
+.env
+.env.local
+
+# Python tools
+pip-log.txt
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# End
