@@ -157,23 +157,6 @@ Response:
 
 ---
 
-## Screenshots
-
-Place UI screenshots in `./screenshots/` and reference them here. Examples:
-
-- `screenshots/01-home.png` — initial app with textarea and Analyze button
-- `screenshots/02-result.png` — result card with confidence bar
-- `screenshots/03-suggest-reply.png` — suggested reply box
-
-(You can add these images later. For now the README references the folder so Docker/CI artifact pages can show them.)
-
-Example Markdown to insert an image:
-
-```markdown
-![Home screen](screenshots/01-home.png)
-```
-
----
 
 ## Demo
 
