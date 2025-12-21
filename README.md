@@ -157,13 +157,6 @@ Response:
 
 ---
 
-
-## Demo
-
-A hosted demo is coming soon — this repo contains everything needed to run locally or in a container.
-
----
-
 ## Future Improvements
 
 - Add probability calibration for meaningful confidence values
